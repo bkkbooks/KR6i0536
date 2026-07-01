@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0536/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘遍照光明藏無字法門經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0830.xml
+    old_id: T17n0830
+hash: sha256:8824dc6b42d71f47c108a15b8a2f440fe1926dd6fe0559e35bd737ed8ae0f967

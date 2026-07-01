@@ -1,0 +1,57 @@
+canonical_identifier: bkk:krp/KR6i0536/v1
+canonical_location: https://kanripo.org/bkk/KR6i0536/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大乘遍照光明藏無字法門經
+  identifiers:
+    alt_id:
+    - T17n0830
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0830.xml
+    old_id: T17n0830
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 北藏-CB
+  label: 北藏-CB
+  source_xml_id: wit5
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0536_000.yaml, hash: 'sha256:8824dc6b42d71f47c108a15b8a2f440fe1926dd6fe0559e35bd737ed8ae0f967'}
+  - {seq: 1, filename: KR6i0536_001.yaml, hash: 'sha256:5c34abf150b6faece1c1e1a27778b8bd2de170db981abb439f7ad5e20a996afc'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0536_001.markers.yaml, hash: 'sha256:77aeee8e77bc1d65054674685de8f0d6964482a994745369efb90c596b1591bc'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0536_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2592
+  label: 大乘遍照光明藏無字法門經
+  type: juan
+  level: 1
+hash: sha256:79829c841d3dc2ff470d5fb93549afdb5c34f159bde9447e5c8d9f9e41ebd92a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
