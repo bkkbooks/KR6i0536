@@ -37,9 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0536_000.yaml, hash: 'sha256:8824dc6b42d71f47c108a15b8a2f440fe1926dd6fe0559e35bd737ed8ae0f967'}
-  - {seq: 1, filename: KR6i0536_001.yaml, hash: 'sha256:5c34abf150b6faece1c1e1a27778b8bd2de170db981abb439f7ad5e20a996afc'}
+  - {seq: 1, filename: KR6i0536_001.yaml, hash: 'sha256:860f400316a948b180443d4878b6c1bdef3e96aba867cc03eb5413a191d3a855'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0536_001.markers.yaml, hash: 'sha256:77aeee8e77bc1d65054674685de8f0d6964482a994745369efb90c596b1591bc'}
+  - {seq: 0, role: markers, filename: assets/KR6i0536_000.markers.yaml, hash: 'sha256:de953ae78094dac5d2e3657b3142e20aedf299c50a2f2c9a63ccc34d9249d5d7'}
+  - {seq: 1, role: markers, filename: assets/KR6i0536_001.markers.yaml, hash: 'sha256:ae8c388051b8145f0953b0fe43947dfdc4ed72aa24e28d416898671d04126fc1'}
 table_of_contents:
 - ref:
     seq: 1
@@ -51,7 +52,4 @@ table_of_contents:
   label: 大乘遍照光明藏無字法門經
   type: juan
   level: 1
-hash: sha256:79829c841d3dc2ff470d5fb93549afdb5c34f159bde9447e5c8d9f9e41ebd92a
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9be39f3b37cf5ac08126941c9655c4866f55dff6e441c59a991ffd87e75e711d
