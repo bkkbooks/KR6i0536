@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0536/v1
 canonical_location: https://kanripo.org/bkk/KR6i0536/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大乘遍照光明藏無字法門經
   identifiers:
@@ -37,10 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0536_000.yaml, hash: 'sha256:8824dc6b42d71f47c108a15b8a2f440fe1926dd6fe0559e35bd737ed8ae0f967'}
-  - {seq: 1, filename: KR6i0536_001.yaml, hash: 'sha256:860f400316a948b180443d4878b6c1bdef3e96aba867cc03eb5413a191d3a855'}
+  - {seq: 1, filename: KR6i0536_001.yaml, hash: 'sha256:3a93205c1965f6cb425f74158e177a1398b44bba4f973f21683726b6653d3012'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0536_000.markers.yaml, hash: 'sha256:de953ae78094dac5d2e3657b3142e20aedf299c50a2f2c9a63ccc34d9249d5d7'}
-  - {seq: 1, role: markers, filename: assets/KR6i0536_001.markers.yaml, hash: 'sha256:ae8c388051b8145f0953b0fe43947dfdc4ed72aa24e28d416898671d04126fc1'}
+  - {seq: 1, role: markers, filename: assets/KR6i0536_001.markers.yaml, hash: 'sha256:c8a71660e20b611eb6e44e49d72cf82e8fd11c9458db96e8968ab43d13501cf3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -52,4 +52,7 @@ table_of_contents:
   label: 大乘遍照光明藏無字法門經
   type: juan
   level: 1
-hash: sha256:9be39f3b37cf5ac08126941c9655c4866f55dff6e441c59a991ffd87e75e711d
+hash: sha256:f2ac286b8c1d86a5d85a3679c865b8809da9e793630e3f1c66f001cee3f59cba
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
